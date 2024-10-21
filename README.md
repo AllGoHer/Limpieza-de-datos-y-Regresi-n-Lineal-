@@ -1,5 +1,10 @@
-# Limpieza-de-datos-y-Regresión-Lineal- con Python
-Regresión Lineal caso: Películas Taquilleras
+# PYTHON Limpieza-de-datos-y-Regresión-Lineal- Graficos
+caso: Películas Taquilleras
+contiene: 
+         - Escalamiento de datos
+         - Regresion Lineal
+         - Grafico de Burbujas con Seaborn
+         - Relación Presupuesto Taquilla
 
 📫 
    💻Autor: ALLAN GONZALES
